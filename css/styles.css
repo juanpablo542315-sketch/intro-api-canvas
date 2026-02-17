@@ -1,10 +1,13 @@
+/* --------------------------------------------------
+   Estilo del canvas
+-------------------------------------------------- */
 #lienzo {
 
     /* Relleno (color de fondo) café claro */
-    background-color: #f06bb4;
+    background-color: #ec86e0;
 
     /* Borde café oscuro */
-    border: 3px solid #85643d;
+    border: 3px solid #b449e6;
 
     /* Esquinas redondeadas */
     border-radius: 15px;
